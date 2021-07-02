@@ -8,10 +8,9 @@
 
 ## 整体结构
 
-本课程共有11个章节，包括了前端基础、数据结构与算法、设计模式、前端框架、项目实战...。
-整体架构图如下所示：
-![front-end](https://daluobohao-1257969677.cos.ap-beijing.myqcloud.com/front-end.png)
+本课程共有11个章节，包括了前端基础、数据结构与算法、设计模式、前端框架、项目实战...。 整体架构图如下所示： ![front-end](https://daluobohao-1257969677.cos.ap-beijing.myqcloud.com/front-end.png)
 
 ## 说明
 
 上面的知识网络结构图和其中具体的知识点都会随着前端的发展而实时更新。在前端发展日新月异的今天，必须得跟着时代的脚步。
+
