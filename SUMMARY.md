@@ -4,7 +4,7 @@
 * [关于作者](about.md)
 * [前端基础](basisoffe/README.md)
   * [计算机基础](basisoffe/basisofcomputer/README.md)
-    * [计算机组成原理](basisoffe/basisOfComputer/computerOrganization.md)
+    * [计算机组成原理](basisOfFe/basisOfComputer/computerOrganization.md)
     * [计算机网络](basisoffe/basisofcomputer/computernetwork.md)
   * [编程语言](basisoffe/codelanguage/README.md)
     * [js](basisoffe/codelanguage/js.md)
